@@ -1,2 +1,2 @@
 # javaexercicio
-Excercício para alcular a área de dois triângulos e informar qual deles é o maior (sem OO).
+Exercício em java para calcular a área de dois triangulos e informar qual tem a maior (SEM Orientação a Objeto).
